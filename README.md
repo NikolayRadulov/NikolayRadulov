@@ -5,7 +5,7 @@ You can contact me on: nikolai.l.radulov@gmail.com
 
 ## Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,hibernate,spring,html,css,js,eclipse,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,hibernate,spring,html,css,js,eclipse,vscode,regex,github)](https://skillicons.dev)
 <!--
 **NikolayRadulov/NikolayRadulov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
