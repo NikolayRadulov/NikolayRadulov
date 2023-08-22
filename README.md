@@ -1,13 +1,11 @@
 ### Hi there 👋 I am Nikolay
 I'm learning back-end development with java and front-end development with HTML5, CSS3 and javascript.
-
 <br>
-<h1>Skills:</h1>
-<img src = "https://cdn-icons-png.flaticon.com/512/5968/5968282.png" style = "width:50px">
-<img src = "https://static-00.iconduck.com/assets.00/database-mysql-icon-462x512-6itsq0zm.png" style = "width:50px">
+You can contact me on: nikolai.l.radulov@gmail.com
 
+## Skills:
 
-
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,hibernate,spring,html,css,js,eclipse,vscode)](https://skillicons.dev)
 <!--
 **NikolayRadulov/NikolayRadulov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
